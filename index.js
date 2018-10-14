@@ -1,8 +1,19 @@
-function add(x, y){
-  x = 1
-  y = 2
-  return add;
-}; // 81
-function subtract(60 - 40){}; // 20
-function multiply(2 * 3.4){}; // 6.8 (there's that floating-point arithmetic again...)
-function divide(5.0 / 2.5){}; // 2
+function add(x, y) {
+  return x + y
+}
+
+function subtract(x, y) {
+  return x - y
+}
+
+function multiply(x, y) {
+  return x * y
+}
+
+function divide(x, y) {
+  return x / y
+}
+
+function add(x, y) {
+  return x + y
+}
