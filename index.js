@@ -28,3 +28,13 @@ function makeInt(n) {
   n = parseInt(n, 10)
   return n
 }
+
+function preserveDecimal(n) {
+
+}
+
+function preserveDecimal(n) {
+  n = 'help'
+  parseFloat(n)
+  return n
+}
