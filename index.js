@@ -15,6 +15,7 @@ function divide(x, y) {
 }
 
 function inc(n) {
+  n = 434
   return n++
 }
 
