@@ -15,13 +15,11 @@ function divide(x, y) {
 }
 
 function inc(n) {
-  n = 434
-  return n++
+  return n+=
 }
 
 function dec(n) {
-  n = 132
-  return n--
+  return n-=
 }
 
 function makeInt(n) {
